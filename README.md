@@ -1,6 +1,6 @@
 The code for this prototype project is not open source, but I've included a link to our page on DevPost for our entry in the Kyber Hackathon. There you will find a video demo, and I've included a description below as well. 
 
-https://devpost.com/software/defi-custody#updates
+https://devpost.com/software/defi-custody
 
 # Inspiration
 Riding motorcycles and managing a large portfolio of crypto assets is a recipe for disaster, unless you're prepared. The biggest problem about this lifestyle is that you are constantly on the edge of technology and life itself. As we grow older, we start to think about how to pass down our assets to our heirs. Setting up a traditional trust requires human intervention, which, lets be honest, we don't trust. Many crypto users are young, fearless, at the prime of their professional career, but also naive. Many of them aren't thinking about death. Good luck passing down those synths to your children! The fact remains: if we die, so will our crypto.
